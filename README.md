@@ -8,3 +8,6 @@ The application takes a string (such as a URL, text, or any other form of data) 
 3) SAVE AS IMAGE: Users can save the generated QR Code as an image file (i.e. PNG, JPEG, etc).
 4) DISPLAY OPTION: Displays the QR Code in a graphical  window for immediate scanning.
 5) SIMPLE INTERFACE: The project provides both command-line and GUI-based interfaces for ease of use.
+
+# Required Libraries & Dependencies:
+

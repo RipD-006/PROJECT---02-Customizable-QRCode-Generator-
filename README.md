@@ -1,2 +1,3 @@
-# PROJECT---02-Customizable-QRCode-Generator-
-This Python project is designed to generate QR codes based on user input. The application takes a string such as a URL, text, or any other form of data and converts it into a QR code image, which can then be saved or displayed. It allows for customization in terms of size, error correction level, and the color of the QR code.
+# [PROJECT-02] Customizable QRCode Generator:
+This Python project is designed to generate QR codes based on user input. A QR code (Quick Response Code) is a type of matrix barcode that stores information such as URLs, text, contact details, and more. The project utilizes the qrcode library to create QR codes and can be customized to generate different types of QR codes with various encoding options.
+The application takes a string (such as a URL, text, or any other form of data) and converts it into a QR code image, which can then be saved or displayed. The project allows for customization in terms of size, error correction level, and the color of the QR code, making it versatile for various use cases, from sharing links to encoding sensitive information.

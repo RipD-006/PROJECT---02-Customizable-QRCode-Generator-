@@ -9,5 +9,10 @@ The application takes a string (such as a URL, text, or any other form of data) 
 4) DISPLAY OPTION: Displays the QR Code in a graphical  window for immediate scanning.
 5) SIMPLE INTERFACE: The project provides both command-line and GUI-based interfaces for ease of use.
 
-# Required Libraries & Dependencies:
+# Required Libraries & Dependencies :
+qrcode: The core library to generate the QR codes.
 
+pillow: A Python Imaging Library (PIL) fork used for handling image operations.
+
+# Installation:
+    pip install qrcode[pil]
